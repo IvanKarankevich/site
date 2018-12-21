@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="WINDOWS-1251"?>
+<?xml-stylesheet type='text/xsl' href='ourxsl.xsl'?>
+<artist>
+ <title>"Tickets to Timatis's concert"</title>
+  <information>Information about tickets and dates</information>
+   <ticket kind="VIP tickets" price="350" date="23.01.2019">
+   </ticket>
+   <ticket kind="usual tickets" price="250" date="23.01.2019">
+   </ticket>
+   <ticket kind="cheap tickets" price="150" date="23.01.2019">
+   </ticket>
+  </information>
+</artist>
